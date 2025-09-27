@@ -4,8 +4,8 @@ title: Daniel Hitchcock - Blog
 permalink: /blog/
 ---
 <style>
-/* Hide view on github button */
-.github-fork-ribbon { display: none !important; }
+/* Hide the GitHub ribbon only on pages with class 'blog-page' */
+body.blog-page .github-fork-ribbon-wrapper { display: none !important; }
 </style>
 
 
