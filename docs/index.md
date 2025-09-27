@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Daniel Hitch
-permalink: /index/
 ---
 # Daniel Hitch
 ## My personal website
