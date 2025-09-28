@@ -6,4 +6,4 @@ permalink: /projects/
 
 # Projects page
 
-[Home](/)  ·  [Blog](/blog)  ·  [Projects](/projects)
+[Home](/Personal-site)  ·  [Blog](/Personal-site/blog)  ·  [Projects](/Personal-site/projects/)
