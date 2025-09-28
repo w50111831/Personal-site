@@ -10,3 +10,10 @@ body.blog-page .github-fork-ribbon-wrapper { display: none !important; }
 
 
 ## Why and How behavioural insights from Thinking, Fast and Slow challenged and continue to challenge established economic theory.
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const ribbon = document.querySelector(".github-fork-ribbon-wrapper");
+  if (ribbon) ribbon.style.display = "none";
+});
+</script>

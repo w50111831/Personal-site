@@ -9,4 +9,4 @@ Hello, my name's Dan and I'm a 17 year old student at Worthing College studying 
 
 This site is a place to share my educationally focused projects, writing and ideas as I prepare for Uni.
 
-Read my first ever [blog post](./blog/)
+Read my first ever [article here](./blog/)
