@@ -15,3 +15,6 @@ Using my knowledge of the programming language python, I decided to create a sim
 You can view my code on github [here](https://github.com/w50111831/Prisoners-dilemma)
 
 And here are some screenshots of my project in action:
+
+![Screenshot of the computer in mode random](/images/Randomcomputer.png)
+![Screenshot of the computer in mode copycat](/images/CopyComputer.png)
